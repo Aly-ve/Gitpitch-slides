@@ -44,7 +44,7 @@ Là, c'est un peu plus complexe.
 
 | **Logiciel**              |  **Description**                                                                      | **Prix**        |
 |:-------------------------:|:--------------------------------------------------------------------------------------|:---------------:|
-| Microsoft Office 365      | Suite bureautique complète, clicodôme et tueuse de petite chatone                     | 50€ par an      |
+| Microsoft Office 365      | Suite bureautique complète, clicodrôme et tueuse de petits chatons                     | 50€ par an      |
 | LibreOffice               | Suite bureautique complète, clicodrôme mais légèrement moins complète que Office 365  | Libre & gratuit |  
 | GitPitch                  | Conception de diaporama                                                               | Libre & gratuit |
 | Typora                    | Prise de notes et documentation en markdown                                           | Gratuit         |
