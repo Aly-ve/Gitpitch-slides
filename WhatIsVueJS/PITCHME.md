@@ -9,10 +9,10 @@ VueJs presentation
 @snap[east span-45]
 @ol[split-screen-list text-white](false)
 - Short presentation
-- architecture and components
+- Architecture and components
 - Community modules
 - When and why ?
-- A little applications ?
+- A little application ?
 - Some useful links
 @olend
 @snapend
@@ -60,16 +60,16 @@ Note:
 ---?image=assets/bg/green-vuejs-darker.jpg&position=left&size=30% 100%
 
 @snap[west split-screen-heading-little text-white span-30]
-Component explaination
+Component explanation
 @snapend
 
 @snap[east span-70]
 @ol[split-screen-list text-vuejs-dark](false)
 - Template tags
-- name: common name of the component
-- data: scoped data
-- props: received data from the parent component
-- methods: local functions
+- Name: common name of the component
+- Data: scoped data
+- Props: received data from the parent component
+- Methods: local functions
 - Others: mounted, created, etc
 @olend
 @snapend
@@ -128,7 +128,7 @@ Modularity
 
 @snap[east span-50]
 @ol[split-screen-list text-vuejs-dark](false)
-- Create static web sites
+- Creates static web sites
 - Managed by Markdown and Yaml
 - Easy to install and understand
 - Works directly
