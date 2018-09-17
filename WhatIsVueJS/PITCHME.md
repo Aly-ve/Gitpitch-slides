@@ -177,6 +177,7 @@ Modularity
 @olend
 
 ---
+Thank you :)
 Any questions ?
 
 ---?image=assets/bg/green-vuejs.jpg&position=right&size=50% 100%
