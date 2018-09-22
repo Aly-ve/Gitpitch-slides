@@ -135,7 +135,7 @@ Modularity
 @olend
 @snapend
 
----?image=assets/bg/dark-grey.jpg&position=right&size=50% 100%
+---?image=assets/bg/typescript.png&position=right&size=50% 100%
 @snap[west span-50]
 @ol[split-screen-list text-vuejs-dark](false)
 - VueJS application can be wroten with Typescript
@@ -149,7 +149,7 @@ Modularity
 ![Typescript logo](WhatIsVueJS/images/typescript.png)
 @snapend
 
----?image=assets/bg/dark-grey.jpg&position=left&size=50% 100%
+---?image=assets/bg/purple-jsx.png&position=left&size=50% 100%
 @snap[west text-white span-50]
 @size[1.5em](Vuex)
 ![Vuex not the real logo](WhatIsVueJS/images/vuex.png)
@@ -177,6 +177,7 @@ Modularity
 @olend
 
 ---
+Thank you 😋<br/>
 Any questions ?
 
 ---?image=assets/bg/green-vuejs.jpg&position=right&size=50% 100%

@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Vuepress',
-  port: 8081,
+  port: 8082,
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
